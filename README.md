@@ -31,3 +31,4 @@ Basic example of data structure
 #### Others
 * [Reverse List](/data-structure/linked-list/singly-linked-list.py#L205-L219)
 * [Size of List](/data-structure/linked-list/singly-linked-list.py#L222-L238)
+* [Insert element at head (Push operation)](/data-structure/linked-list/singly-linked-list.py#L28-L38)
