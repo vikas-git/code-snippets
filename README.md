@@ -31,4 +31,36 @@ Basic example of data structure
 #### Others
 * [Reverse List](/data-structure/linked-list/singly-linked-list.py#L205-L219)
 * [Size of List](/data-structure/linked-list/singly-linked-list.py#L222-L238)
-* [Insert element at head (Push operation)](/data-structure/linked-list/singly-linked-list.py#L28-L38)
+
+
+### Doubly Linked List
+#### Insert
+* [Insert element at beginning of linked list (Push)](/data-structure/linked-list/doubly-linked-list.py#L28-L42)
+* [Insert element at ending of linked list (Append)](/data-structure/linked-list/doubly-linked-list.py#L44-L60)
+* [Insert element after given element](/data-structure/linked-list/doubly-linked-list.py#L62-L82)
+* [Insert element before given element](/data-structure/linked-list/doubly-linked-list.py#L84-L113)
+
+#### Delete
+* [Delete element/node from start of list(first node)](/data-structure/linked-list/doubly-linked-list.py#L117-L131)
+* [Delete element/node from end of list(last node)](/data-structure/linked-list/doubly-linked-list.py#L133-L150)
+* [Delete element/node by value](/data-structure/linked-list/doubly-linked-list.py#L152-L190)
+
+#### Others
+* [Reverse Doubly linked list](/data-structure/linked-list/doubly-linked-list.py#L192-L208)
+
+### Circular Linked List
+#### Insert
+* [Insert element in empty list](/data-structure/linked-list/circular-linked-list.py#L28-L35)
+* [Insert element at beginning of linked list (Push)](/data-structure/linked-list/circular-linked-list.py#L37-L49)
+* [Insert element at ending of linked list (Append)](/data-structure/linked-list/circular-linked-list.py#L51-L64)
+* [Insert element after given element](/data-structure/linked-list/circular-linked-list.py#L66-L89)
+
+#### Delete
+* [Delete element/node from start of list(first node)](/data-structure/linked-list/circular-linked-list.py#L91-L105)
+* [Delete element/node from end of list(last node)](/data-structure/linked-list/circular-linked-list.py#L106-L125)
+* [Delete element/node by value](/data-structure/linked-list/circular-linked-list.py#L126-L157)
+
+
+## 2) Stacks
+## 3) Queues
+## 4) Sorting Algorithm
