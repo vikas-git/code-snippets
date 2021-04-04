@@ -1,7 +1,17 @@
-import sys
-sys.path.insert(0, '/home/jiffy/pystores/data-structure/stack/')
+class Stack:
+    def __init__(self):
+        self.items = []
 
-from stack_without_size import Stack
+    def is_empty(self):
+        return self.items == []
+
+    def push(self, element):
+        return self.items.append(element)
+
+    def pop(self):
+        if self.is_empty():
+            raise Exception("Stack is underflow")
+        return self.items.pop()
 
 
 def is_valid(expression):

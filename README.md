@@ -28,7 +28,7 @@ Basic example of data structure
 * [Delete list](/data-structure/linked-list/singly-linked-list.py#L161-L168)
 * [Delete element by index](/data-structure/linked-list/singly-linked-list.py#L171-L199)
 
-#### Others
+#### Miscellaneous
 * [Reverse List](/data-structure/linked-list/singly-linked-list.py#L205-L219)
 * [Size of List](/data-structure/linked-list/singly-linked-list.py#L222-L238)
 
@@ -45,7 +45,7 @@ Basic example of data structure
 * [Delete element/node from end of list(last node)](/data-structure/linked-list/doubly-linked-list.py#L133-L150)
 * [Delete element/node by value](/data-structure/linked-list/doubly-linked-list.py#L152-L190)
 
-#### Others
+#### Miscellaneous
 * [Reverse Doubly linked list](/data-structure/linked-list/doubly-linked-list.py#L192-L208)
 
 ### Circular Linked List
@@ -62,5 +62,20 @@ Basic example of data structure
 
 
 ## 2) Stacks
+* [Basic operations of stack with fixed size](/data-structure/stack/stack_with_size.py)
+* [Basic operations of stack without fixed size](/data-structure/stack/stack_without_size.py)
+* [Basic operations of stack using linked list](/data-structure/stack/stack_using_linked_list.py)
+
 ## 3) Queues
+* [Basic operations of queue using list](/data-structure/queue/queue_using_list.py)
+* [Basic operations of queue](/data-structure/queue/queue.py)
+* [Basic operations of queue using linked_list](/data-structure/queue/queue_using_linked_list.py)
+* [Basic operations of queue using circular linked list](/data-structure/queue/queue_using_circular_list.py)
+* [Basic operations of circular queue](/data-structure/queue/circular_queue.py)
+* [Validate Nested parentheses](/data-structure/queue/circular_queue.py)
+
 ## 4) Sorting Algorithm
+* [Bubble sort](/data-structure/sorting/sorting_algo.py#L7-L16)
+* [Selection sort](/data-structure/sorting/sorting_algo.py#L7-L16)
+
+<hr/>
