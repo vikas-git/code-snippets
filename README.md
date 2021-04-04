@@ -13,4 +13,4 @@ Basic example of data structure
 <hr/>
 
 ## 1) Linked Lists
-* [Insert element at head (Push operation)](/data-structure/1.linked-list/singly-linked-list.py#L28-L38)
+* [Insert element at head (Push operation)](/data-structure/linked-list/singly-linked-list.py#L28-L38)
