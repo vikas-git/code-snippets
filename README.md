@@ -8,7 +8,7 @@ Basic example of data structure
 #### 2) Stacks
 #### 3) Queues
 #### 4) Sorting Algorithms
-#### 5) Trees
+#### 5) Searching Algorithms
 
 <hr/>
 
@@ -76,6 +76,11 @@ Basic example of data structure
 
 ## 4) Sorting Algorithm
 * [Bubble sort](/data-structure/sorting/sorting_algo.py#L7-L16)
-* [Selection sort](/data-structure/sorting/sorting_algo.py#L7-L16)
+* [Selection sort](/data-structure/sorting/sorting_algo.py#L18-L29)
 
+
+## 5) Searching Algorithm
+* [Linear search](/data-structure/searching/search_algo.py#L5-L10)
+* [Binary search (iterative)](/data-structure/searching/search_algo.py#L16-L30)
+* [Binary search (recursive)](/data-structure/searching/search_algo.py#L33-L46)
 <hr/>
