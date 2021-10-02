@@ -1,6 +1,8 @@
 # linear search
 '''
-    time complexity : O(n).
+    time complexity 
+    best case: O(1).
+    Worst case: O(n).
 '''
 def linear_search(_list, search_value):
     for itemk, itemv in enumerate(_list) :
@@ -45,5 +47,7 @@ def binary_search_recursive(_list, first, last, search_value):
     else:
         return -1
 
-_list = [10,13,25,32,40,46,52,63]
+_list = [10,13,25,32,40,46,52,63] 
+print(binary_search_iterative(_list, 40))
+print('-'*50)
 print(binary_search_recursive(_list, 0, len(_list)-1, 40))

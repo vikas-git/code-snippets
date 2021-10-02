@@ -162,7 +162,7 @@ class SinglyLinkedList(object):
         temp = self.head
         while temp:
             next_node = temp.next
-            del temp
+            del temp.data
             temp = next_node
             self.size -= 1
         return
