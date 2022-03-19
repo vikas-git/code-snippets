@@ -81,7 +81,7 @@ Basic example of data structure
 
 
 ## 5) Searching Algorithm
-* [Linear search](/data-structure/searching/search_algo.py#L5-L10)
-* [Binary search (iterative)](/data-structure/searching/search_algo.py#L16-L30)
-* [Binary search (recursive)](/data-structure/searching/search_algo.py#L33-L46)
+* [Linear search](/data-structure/searching/linear_search.py)
+* [Binary search (iterative)](/data-structure/searching/binary_search.py#L1-L18)
+* [Binary search (recursive)](/data-structure/searching/binary_search.py#L21-L35)
 <hr/>
