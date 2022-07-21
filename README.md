@@ -76,8 +76,10 @@ Basic example of data structure
 * [Validate Nested parentheses](/data-structure/queue/circular_queue.py)
 
 ## 4) Sorting Algorithm
-* [Bubble sort](/data-structure/sorting/sorting_algo.py#L7-L16)
-* [Selection sort](/data-structure/sorting/sorting_algo.py#L18-L29)
+* [Bubble sort](/data-structure/sorting/bubble_sort.py)
+* [Insertion sort](/data-structure/sorting/insertion_sort.py)
+* [Selection sort](/data-structure/sorting/selection_sort.py)
+* [Quick sort](/data-structure/sorting/quick_sort.py)
 
 
 ## 5) Searching Algorithm
