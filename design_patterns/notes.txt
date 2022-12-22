@@ -1,0 +1,21 @@
+
+Type of Design pattern
+    * Creational - How objects are created
+        - Singleton Method
+        - Factory Method
+        - Abstract Factory Method
+        - Builder Method
+        - Prototype Method
+    * Sturctural - Simplify the struture by identifying relationship b/w objects
+        - Adapter
+        - Decorator
+        - Facade
+        - Proxy
+    * Behavioral - How object behave
+        - Chain of responsiblity
+        - Strategy
+        - Observer
+        - State
+        - Template
+        - Flyweight
+
